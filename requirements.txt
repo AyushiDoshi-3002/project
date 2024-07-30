@@ -9,6 +9,3 @@ langchain_community
 python-dotenv
 pypdf
 google-cloud-aiplatform>=1.38
-streamlit==1.11.0
-textblob==0.15.3
-streamlit-extras==0.0.5
